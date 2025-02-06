@@ -1,5 +1,5 @@
 document.getElementById('yesButton').addEventListener('click', function() {
-    document.querySelector('.question').innerText = "I Love You BEE!!";
+    document.querySelector('.question').innerText = "I Love You!!";
     document.querySelector('.buttons').style.display = 'none'; // Hide buttons
 });
 
